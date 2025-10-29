@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3616-make-array-elements-equal-to-zero) |
+## Math
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Arshia-163/Leetcode_Java/tree/master/3676-smallest-number-with-all-set-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Arshia-163/Leetcode_Java/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
