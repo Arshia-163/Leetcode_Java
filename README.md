@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arshia-163/Leetcode_Java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arshia-163/Leetcode_Java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## String
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
