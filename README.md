@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arshia-163/Leetcode_Java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arshia-163/Leetcode_Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arshia-163/Leetcode_Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arshia-163/Leetcode_Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Arshia-163/Leetcode_Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
