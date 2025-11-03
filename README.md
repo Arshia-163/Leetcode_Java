@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arshia-163/Leetcode_Java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arshia-163/Leetcode_Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arshia-163/Leetcode_Java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arshia-163/Leetcode_Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arshia-163/Leetcode_Java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arshia-163/Leetcode_Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Monotonic Stack
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arshia-163/Leetcode_Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
