@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arshia-163/Leetcode_Java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arshia-163/Leetcode_Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arshia-163/Leetcode_Java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arshia-163/Leetcode_Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
@@ -132,8 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0239-sliding-window-maximum) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
