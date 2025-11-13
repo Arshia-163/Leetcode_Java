@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arshia-163/Leetcode_Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Arshia-163/Leetcode_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Arshia-163/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arshia-163/Leetcode_Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Arshia-163/Leetcode_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Arshia-163/Leetcode_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Memoization
 |  |
 | ------- |
