@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arshia-163/Leetcode_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/Arshia-163/Leetcode_Java/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0239-sliding-window-maximum) |
 | [0474-ones-and-zeroes](https://github.com/Arshia-163/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
@@ -162,16 +163,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Arshia-163/Leetcode_Java/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Arshia-163/Leetcode_Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [3863-power-grid-maintenance](https://github.com/Arshia-163/Leetcode_Java/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Arshia-163/Leetcode_Java/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Arshia-163/Leetcode_Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [3863-power-grid-maintenance](https://github.com/Arshia-163/Leetcode_Java/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Arshia-163/Leetcode_Java/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Arshia-163/Leetcode_Java/tree/master/1971-find-if-path-exists-in-graph) |
 | [3863-power-grid-maintenance](https://github.com/Arshia-163/Leetcode_Java/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Arshia-163/Leetcode_Java/tree/master/0200-number-of-islands) |
 | [2625-increment-submatrices-by-one](https://github.com/Arshia-163/Leetcode_Java/tree/master/2625-increment-submatrices-by-one) |
 ## Enumeration
 |  |
