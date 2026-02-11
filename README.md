@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Arshia-163/Leetcode_Java/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Arshia-163/Leetcode_Java/tree/master/3863-power-grid-maintenance) |
 ## Simulation
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3618-find-the-original-typed-string-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arshia-163/Leetcode_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3719-longest-balanced-subarray-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3721-longest-balanced-subarray-ii) |
 ## Tree
 |  |
 | ------- |
@@ -239,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
