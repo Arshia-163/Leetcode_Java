@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshia-163/Leetcode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshia-163/Leetcode_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Arshia-163/Leetcode_Java/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Arshia-163/Leetcode_Java/tree/master/0151-reverse-words-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Arshia-163/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Arshia-163/Leetcode_Java/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3721-longest-balanced-subarray-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Arshia-163/Leetcode_Java/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
