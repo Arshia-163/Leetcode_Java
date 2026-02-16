@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arshia-163/Leetcode_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Arshia-163/Leetcode_Java/tree/master/0200-number-of-islands) |
+| [0228-summary-ranges](https://github.com/Arshia-163/Leetcode_Java/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Arshia-163/Leetcode_Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0239-sliding-window-maximum) |
 | [0474-ones-and-zeroes](https://github.com/Arshia-163/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
