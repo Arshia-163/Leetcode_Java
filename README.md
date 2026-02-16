@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Arshia-163/Leetcode_Java/tree/master/0190-reverse-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Arshia-163/Leetcode_Java/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Arshia-163/Leetcode_Java/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Arshia-163/Leetcode_Java/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arshia-163/Leetcode_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/Arshia-163/Leetcode_Java/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Arshia-163/Leetcode_Java/tree/master/3721-longest-balanced-subarray-ii) |
 ## Tree
