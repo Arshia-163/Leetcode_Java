@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arshia-163/Leetcode_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Arshia-163/Leetcode_Java/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Arshia-163/Leetcode_Java/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Arshia-163/Leetcode_Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0239-sliding-window-maximum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Arshia-163/Leetcode_Java/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Arshia-163/Leetcode_Java/tree/master/1833-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Arshia-163/Leetcode_Java/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshia-163/Leetcode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Number Theory
 |  |
