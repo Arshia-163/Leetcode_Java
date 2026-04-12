@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshia-163/Leetcode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshia-163/Leetcode_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arshia-163/Leetcode_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arshia-163/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Arshia-163/Leetcode_Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Arshia-163/Leetcode_Java/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshia-163/Leetcode_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Arshia-163/Leetcode_Java/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshia-163/Leetcode_Java/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arshia-163/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Arshia-163/Leetcode_Java/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Arshia-163/Leetcode_Java/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arshia-163/Leetcode_Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Arshia-163/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshia-163/Leetcode_Java/tree/master/0594-longest-harmonious-subsequence) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Arshia-163/Leetcode_Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3713-longest-balanced-substring-i](https://github.com/Arshia-163/Leetcode_Java/tree/master/3713-longest-balanced-substring-i) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arshia-163/Leetcode_Java/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arshia-163/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Arshia-163/Leetcode_Java/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
